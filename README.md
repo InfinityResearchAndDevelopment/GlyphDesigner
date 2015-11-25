@@ -1,0 +1,2 @@
+# GlyphDesigner
+The glyph designer started out as an attempt to create a digital graph paper, seeming as most examples search for at the time lacked the features required for my needs at the time, this was intended for the digitization of my proprietary Glyph set for the BlockArchiecture and components. GlyphDesigner has been realized as something a bit bigger, a vector graphics engine which will be the basis upon which the visual element of the Block Architecture will be implemented.
